@@ -44,3 +44,4 @@ Dashboard de monitoreo y observabilidad para ecosistemas distribuidos y microser
 ## Contacto
 
 - LinkedIn: www.linkedin.com/in/axel-dariel-perez-a28016316
+- Correo: axelp7223@gmail.com
