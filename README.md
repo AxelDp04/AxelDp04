@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hola, soy Axel Dariel Perez 👋
 
-<!--
-**AxelDp04/AxelDp04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas en UTESA.
 
-Here are some ideas to get you started:
+💻 Desarrollador Full Stack especializado en Python, FastAPI, PostgreSQL, Next.js y TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Apasionado por la Inteligencia Artificial, los sistemas multi-agente, la automatización y la construcción de software escalable.
+
+## Tecnologías
+
+- Python
+- FastAPI
+- PostgreSQL
+- SQL
+- TypeScript
+- Next.js
+- React
+- Supabase
+- LangChain
+- Git & GitHub
+
+## Proyectos Destacados
+
+### ARQOVEX
+Plataforma multi-inquilino para la gestión de proyectos inmobiliarios y arquitectónicos.
+
+### Auditacar RD
+Sistema de auditoría vehicular basado en VIN para detección de fraude y análisis de confianza.
+
+### AgentScout
+Sistema multi-agente impulsado por IA para investigación de mercado y análisis de tendencias.
+
+### Sentinel.SRE
+Dashboard de monitoreo y observabilidad para ecosistemas distribuidos y microservicios.
+
+## Actualmente aprendiendo
+
+- Python avanzado
+- Bases de datos SQL
+- Arquitectura de software
+- Docker
+- Inglés técnico
+
+## Contacto
+
+- LinkedIn: www.linkedin.com/in/axel-dariel-perez-a28016316
