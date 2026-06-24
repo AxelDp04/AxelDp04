@@ -1,44 +1,55 @@
-Hola, soy Axel Dariel Perez 👋
+# Hola, soy Axel Dariel Perez 👋
 
-🎓 Estudiante de Ingeniería en Sistemas, enfocado en el desarrollo de software y el análisis de datos.
+🎓 Estudiante de Ingeniería en Sistemas enfocado en el desarrollo de software y la Ingeniería de Datos.
 
-💻 Actualmente estoy desarrollando habilidades en Python, SQL y PostgreSQL, trabajando en proyectos prácticos donde conecto bases de datos con aplicaciones para analizar información y resolver problemas reales.
+💻 He trabajado en proyectos prácticos utilizando Python, PostgreSQL y tecnologías web, donde he desarrollado habilidades en la conexión entre aplicaciones y bases de datos, así como en la manipulación y análisis de datos.
 
-📊 Me interesa especialmente el área de Ingeniería de Datos, incluyendo el procesamiento, limpieza y análisis de datos utilizando herramientas como Pandas y SQL.
+📊 Actualmente estoy enfocado en la Ingeniería de Datos, aprendiendo a trabajar con Python, SQL y Pandas para la extracción, transformación y análisis de datos.
 
-🔧 También tengo experiencia básica en desarrollo web utilizando FastAPI, React y tecnologías modernas, lo que me permite construir aplicaciones completas y entender el flujo de datos de extremo a extremo.
+🚀 He desarrollado proyectos donde conecto Python con PostgreSQL para ejecutar consultas SQL, procesar la información y generar análisis básicos, aplicando conceptos del mundo real.
 
-🚀 Estoy en constante aprendizaje, fortaleciendo conocimientos en:
-- Python
-- SQL y bases de datos relacionales
-- Modelado de datos
-- Integración de sistemas
-- Inglés técnico
+## 🧠 Formación
 
-Tecnologías:
+- 📚 DataCamp:
+  - Python Programming Fundamentals
+  - Writing Efficient Python Code
+  - Data Engineering with SQL (en curso)
+
+- 🎓 ITLA:
+  - Curso de Python desde Cero
+
+## 🛠️ Tecnologías
+
 - Python
 - PostgreSQL
 - SQL
 - Pandas
 - FastAPI (básico)
-- React (básico)
+- React / Next.js (básico)
 - Git & GitHub
 
-Proyectos:
-- Análisis de estudiantes con Python y PostgreSQL
-- ARQOVEX
-- Auditacar RD
+## 📂 Proyectos Destacados
 
-Actualmente aprendiendo:
+- 🔹 Análisis de estudiantes con Python y PostgreSQL  
+  Proyecto donde se realiza conexión a base de datos, consultas SQL y análisis de datos utilizando Pandas.
+
+- 🔹 ARQOVEX  
+  Plataforma para gestión de proyectos inmobiliarios.
+
+- 🔹 Auditacar RD  
+  Aplicación para análisis de información vehicular basada en VIN.
+
+## 🚀 Actualmente aprendiendo
+
 - Ingeniería de Datos
-- SQL avanzado
-- Arquitectura de datos
+- ETL
+- SQL 
+- Modelado de datos
 - Automatización con Python
+- Inglés técnico
 
-## Contacto:
+## 📬 Contacto
 
-Correo: axelp7223@gmail.com
-
-LinkedIn: www.linkedin.com/in/axel-dariel-perez-a28016316
-
-GitHub: github.com/AxelDp04
+- 📧 Email: axelp7223@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/axel-dariel-perez-a28016316  
+- 💻 GitHub: github.com/AxelDp04
