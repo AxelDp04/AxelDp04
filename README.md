@@ -28,7 +28,7 @@
 - React / Next.js (básico)
 - Git & GitHub
 
-## 📂 Proyectos Destacados
+## 📂 Proyectos
 
 - 🔹 Análisis de estudiantes con Python y PostgreSQL  
   Proyecto donde se realiza conexión a base de datos, consultas SQL y análisis de datos utilizando Pandas.
